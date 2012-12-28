@@ -12,6 +12,8 @@
 <string name="generate">Сгенерировать</string>
 <string name="app_name">Генератор паролей</string>
 <string name="menu_options">Настройки</string>
+<string name="options_avoid_ambiguous_letters_on">Не использовать буквы I, l, O, 0</string>
+<string name="options_avoid_ambiguous_letters_off">Использовать все буквы и цифры</string>
 
 
 </resources>
