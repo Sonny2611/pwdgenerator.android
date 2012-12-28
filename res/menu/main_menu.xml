@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/menu_copy" android:id="@+id/main_menu_copy"></item><item android:title="@string/menu_clear" android:id="@+id/main_menu_clear"></item>
+
+<item android:id="@+id/main_menu_options" android:title="@string/menu_options"></item><item android:title="About" android:id="@+id/main_menu_about"></item>
+
+</menu>

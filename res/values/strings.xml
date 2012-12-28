@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lower_case">Lower Case</string>
+    <string name="length_label">Length:</string>
+    <string name="hello">Hello World, PasswdGen!</string>
+    <string name="app_name">Password Generator</string>
+<string name="version">20121229</string>
+
+<string name="menu_clear">Clear</string>
+<string name="menu_copy">Copy</string><string name="menu_quit">Quit</string>
+<string name="upper_case">Upper Case</string>
+<string name="digits">Digits</string>
+<string name="symbols">Symbols</string>
+<string name="generate">Generate</string>
+
+<string name="context_menu_clear">Clear</string>
+<string name="menu_options">Settings</string>
+<string name="options_avoid_ambiguous_letters">Avoid ambiguous letters</string>
+</resources>

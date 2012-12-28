@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<string name="length_label">Длина:</string>
+<string name="lower_case">Маленькие</string>
+<string name="menu_clear">Очистить</string>
+<string name="menu_copy">Копировать</string><string name="menu_quit">Выйти</string>
+<string name="upper_case">Большие</string>
+<string name="digits">Цифры</string>
+<string name="symbols">Символы</string>
+<string name="generate">Сгенерировать</string>
+<string name="app_name">Генератор паролей</string>
+<string name="menu_options">Настройки</string>
+
+
+</resources>
