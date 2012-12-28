@@ -4,7 +4,7 @@
 <string name="length_label">Length:</string>
 <string name="hello">Hello World, PasswdGen!</string>
 <string name="app_name">Password Generator</string>
-<string name="version">20121229</string>
+<string name="version">20121228</string>
 
 <string name="menu_clear">Clear</string>
 <string name="menu_copy">Copy</string><string name="menu_quit">Quit</string>
